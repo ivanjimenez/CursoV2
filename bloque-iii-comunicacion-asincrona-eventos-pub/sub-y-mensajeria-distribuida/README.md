@@ -1,2 +1,0 @@
-# Sub y Mensajería Distribuida
-
